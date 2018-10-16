@@ -43,6 +43,7 @@ En sortie: [
  */
 
 function getFoodCategories(foods) {
+  return foods.map(foodies => foodies.isVegetarian ? foodies.food + ' is suitable for vegetarians' : foodies.food + ' is not suitable for vegetarians')
 }
 
 
