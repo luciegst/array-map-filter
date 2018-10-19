@@ -1,4 +1,4 @@
-# Exercices sur map et filter
+# Exercices sur map et filter j
 
 ## Installation
 
